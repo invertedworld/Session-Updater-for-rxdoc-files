@@ -1,0 +1,76 @@
+SESSION UPDATER FOR RXDOC FILES
+END USER LICENCE AGREEMENT
+
+Please read this before activating. Activating the software confirms
+your acceptance of these terms.
+
+Session Updater for rxdoc files is licensed, not sold.
+
+Who may use it. A licence key is issued to a named person, and use is
+permitted by that person only. There is no device limit: you may install
+and use it on as many machines as you personally work on, and no
+activation server is contacted at any point. A licence is not
+transferable, and the key should not be shared — anyone holding it can
+activate the software in your name.
+
+Your statutory rights. If you are a consumer, you have rights under
+the Consumer Rights Act 2015 — including that digital content be of
+satisfactory quality, fit for purpose and as described — which cannot be
+excluded or restricted. Nothing in this licence affects those rights,
+and the two paragraphs below apply to you only so far as the law allows.
+
+No warranty. Subject to the paragraph above, the software is
+provided "as is", without warranty of any kind, whether express or
+implied, including implied warranties of fitness for a particular
+purpose or non-infringement. No guarantee is given that it is free of
+defects, or that any given document will be processed correctly.
+
+Limitation of liability. Subject to your statutory rights, the
+author's total liability arising out of or in connection with this
+licence is limited to the amount you paid for it. Neither party is
+liable for indirect or consequential loss, loss of profit, loss of
+business, or loss of anticipated savings. Loss or corruption of your own
+work is addressed directly below.
+
+Cancellation. If you bought as a consumer, you have 14 days from
+purchase to cancel for a refund. Where you ask for the download or your
+licence key immediately, you are asked to acknowledge that the 14-day
+period ends once supply has begun — the statutory position for digital
+content.
+
+Demo mode. Without a licence key the software runs in demo mode: it
+opens sessions, shows the reconstruction and plays it back, but will not
+write an updated document. Demo mode is not time-limited and does not
+expire. Entering a key at any point unlocks writing.
+
+Technical measures. A licence key is required to process a document.
+The key you enter is checked on this machine and stored, with the name
+it was issued to, in a single file:
+
+    ~/Library/Application Support/Session Updater for rxdoc files/license.txt
+
+No other technical protection measure is applied, no personal data is
+collected, and the software makes no network connection of any kind.
+Deleting that file returns the software to its unactivated state.
+
+This is precisely why the tool never writes to your source document:
+every operation produces a new file, so the original survives any result
+you don't like. Reconstructed edits are approximate by their nature (see
+Limits and caveats), and it remains your responsibility to audition
+the output before delivering it.
+
+Nothing in this section limits or excludes liability for death or
+personal injury caused by negligence, for fraud or fraudulent
+misrepresentation, or for any other liability that cannot lawfully be
+limited or excluded.
+
+Governing law. This licence and any dispute or claim arising out of
+or in connection with it, its subject matter or formation (including
+non-contractual disputes or claims) are governed by and construed in
+accordance with the laws of England and Wales. The courts of England and
+Wales have exclusive jurisdiction to settle any such dispute or claim.
+
+---
+
+This agreement is also reproduced in the user guide supplied with the
+software. The current version accompanies every release.
