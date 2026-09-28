@@ -17,11 +17,11 @@ Both are on the [Releases page](../../releases/latest):
 | | File | Requirements |
 |---|---|---|
 | **macOS** | `Session-Updater-for-rxdoc-files-<version>-build-<n>.dmg` | macOS 11 (Big Sur) or later, Intel or Apple Silicon. Signed and notarized by Apple. |
-| **Windows** | `Session-Updater-for-rxdoc-files-<version>-build-<n>-Windows-Setup.exe` | Windows 10 or 11, 64-bit. Signed. |
+| **Windows** | `Session-Updater-for-rxdoc-files-<version>-build-<n>-Windows-Setup.exe` | Windows 10 or 11, 64-bit. |
 
 The macOS disk image also contains the user guide, the licence and the
 third-party notices; the Windows installer puts them beside the
-application. One licence key works on both.
+application.
 
 ## Trial mode
 
