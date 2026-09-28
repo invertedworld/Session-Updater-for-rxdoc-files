@@ -8,26 +8,31 @@ this tool fills the gap.
 The source `.rxdoc` is **never modified** — every operation writes to a
 distinct output path.
 
+Website: [sessionupdater.com](https://sessionupdater.com/)
+
 ## Download
 
-The macOS disk image is on the [Releases page](../../releases/latest).
-It is signed and notarized by Apple.
+Both are on the [Releases page](../../releases/latest):
 
-Requires macOS 11 or later.
+| | File | Requirements |
+|---|---|---|
+| **macOS** | `Session-Updater-for-rxdoc-files-<version>-build-<n>.dmg` | macOS 11 (Big Sur) or later, Intel or Apple Silicon. Signed and notarized by Apple. |
+| **Windows** | `Session-Updater-for-rxdoc-files-<version>-build-<n>-Windows-Setup.exe` | Windows 10 or 11, 64-bit. Signed. |
 
-The disk image also contains the user guide, the licence, and the
-third-party notices.
+The macOS disk image also contains the user guide, the licence and the
+third-party notices; the Windows installer puts them beside the
+application. One licence key works on both.
 
-## Demo mode
+## Trial mode
 
-Without a licence key the app runs in demo mode: loading, the preview and
-auditioning all work — writing an updated document is the one thing that
-does not. Demo mode is not time-limited.
+Without a licence key the app runs in trial mode. Every feature works;
+the only restriction is that exports are limited to the first 60 seconds.
+Trial mode is not time-limited.
 
 ## Documentation
 
-[User Guide.pdf](User%20Guide.pdf) — the same guide that ships inside the
-disk image.
+[User Guide.pdf](User%20Guide.pdf) — the same guide that ships with the
+application.
 
 ## Independent tool
 

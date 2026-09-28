@@ -38,14 +38,9 @@ licence key immediately, you are asked to acknowledge that the 14-day
 period ends once supply has begun — the statutory position for digital
 content.
 
-Demo mode. Without a licence key the software runs in demo mode: it
-opens sessions, shows the reconstruction and plays it back, but will not
-write an updated document. Demo mode is not time-limited and does not
-expire. Entering a key at any point unlocks writing.
-
-Technical measures. A licence key is required to process a document.
-The key you enter is checked on this machine and stored, with the name
-it was issued to, in a single file:
+Technical measures. A licence key is required to unlock full export
+functionality. The key you enter is checked on this machine and stored,
+with the name it was issued to, in a single file:
 
     ~/Library/Application Support/Session Updater for rxdoc files/license.txt
 
@@ -53,13 +48,7 @@ No other technical protection measure is applied, no personal data is
 collected, and the software makes no network connection of any kind.
 Deleting that file returns the software to its unactivated state.
 
-This is precisely why the tool never writes to your source document:
-every operation produces a new file, so the original survives any result
-you don't like. Reconstructed edits are approximate by their nature (see
-Limits and caveats), and it remains your responsibility to audition
-the output before delivering it.
-
-Nothing in this section limits or excludes liability for death or
+Nothing in this document limits or excludes liability for death or
 personal injury caused by negligence, for fraud or fraudulent
 misrepresentation, or for any other liability that cannot lawfully be
 limited or excluded.
